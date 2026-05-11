@@ -1,4 +1,4 @@
-## Hi there 👋
+## Dinata rizki akbar
 
 <!--
 **dinata21-collab/dinata21-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
