@@ -27,11 +27,11 @@
 
 ---
 
-### 🎮 Mini Game Pixel
-*Mainkan game sebentar sebelum melihat kode! Klik area game untuk memulai.*
+### 🎮 Mini Game RPG Pixel
+*Mainkan game petualangan mini di sini! Klik area game untuk memulai.*
 
 <p align="center">
-  <iframe src="https://flappybird.io/" width="400" height="550" frameborder="0" scrolling="no" style="border: 2px solid #ccc; border-radius: 10px;"></iframe>
+  <iframe src="https://www.miniplay.com/embed/107962" width="700" height="500" frameborder="0" scrolling="no" style="border: 2px solid #ccc; border-radius: 10px;"></iframe>
 </p>
 
 ---
