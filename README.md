@@ -27,11 +27,13 @@
 
 ---
 
-### 🎮 Mini Game RPG Pixel
-*Mainkan game petualangan mini di sini! Klik area game untuk memulai.*
+### 🎮 Mini RPG Pixel Game
+*Klik tombol di bawah untuk memainkan game petualangan pixel di tab baru!*
 
 <p align="center">
-  <iframe src="https://www.miniplay.com/embed/107962" width="700" height="500" frameborder="0" scrolling="no" style="border: 2px solid #ccc; border-radius: 10px;"></iframe>
+  <a href="https://www.miniplay.com/game/rpg" target="_blank">
+    <img src="https://img.shields.io/badge/🎮_MAIN_GAME_RPG_PIXEL-KLIK_DI_SINI-success?style=for-the-badge&logo=gamepad&logoColor=white" alt="Play RPG" />
+  </a>
 </p>
 
 ---
