@@ -27,5 +27,14 @@
 
 ---
 
+### 🎮 Mini Game Pixel
+*Mainkan game sebentar sebelum melihat kode! Klik area game untuk memulai.*
+
+<p align="center">
+  <iframe src="https://flappybird.io/" width="400" height="550" frameborder="0" scrolling="no" style="border: 2px solid #ccc; border-radius: 10px;"></iframe>
+</p>
+
+---
+
 ### 📫 Hubungi Saya
 * GitHub: [@dinata21-collab](https://github.com/dinata21-collab)
