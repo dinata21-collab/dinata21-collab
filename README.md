@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Tentang Saya
 * 🐧 **Sistem & Infrastruktur:** Linux, Command-Line, Bash Scripting.
-* ⚡ **Bahasa Pemrograman:** Python, Java, JavaScript, R.
+* ⚡ **Bahasa Pemrograman:**  JavaScript
 * 🐳 **Tools & Container:** Docker, Portainer, Git.
 * 🗄️ **Database:** MySQL.
 
